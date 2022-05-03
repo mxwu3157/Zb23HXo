@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter",
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": true,
+    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
+    "git.ignoreLimitWarning": true
+}
